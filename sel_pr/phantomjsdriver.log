@@ -3986,14 +3986,14 @@ scriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"use
 [INFO  - 2019-11-09T10:27:48.674Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:32:48.675Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:37:48.675Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-abled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:07:41.001Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c3d57840-02d8-11ea-9858-4b9ff876a1af
-[ERROR - 2019-11-09T10:07:43.356Z] Session [c3d57840-02d8-11ea-9858-4b9ff876a1af] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:07:43.356Z] Session [c3d57840-02d8-11ea-9858-4b9ff876a1af] - page.onError - stack:
-  default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
-  (anonymous function) (https://hh.ru/:54)
-[ERROR - 2019-11-09T10:07:44.939Z] Session [c3d57840-02d8-11ea-9858-4b9ff876a1af] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
-[ERROR - 2019-11-09T10:07:44.939Z] Session [c3d57840-02d8-11ea-9858-4b9ff876a1af] - page.onError - stack:
+[INFO  - 2019-11-09T10:42:48.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:47:48.676Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:52:48.676Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:57:48.678Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:02:48.677Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:07:48.697Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:12:48.697Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+ 2019-11-09T10:07:44.939Z] Session [c3d57840-02d8-11ea-9858-4b9ff876a1af] - page.onError - stack:
   computeTimeToFirstByte (https://static.criteo.net/js/ld/publishertag.js:1)
   finish (https://static.criteo.net/js/ld/publishertag.js:1)
   (anonymous function) (https://static.criteo.net/js/ld/publishertag.js:1)
@@ -4172,13 +4172,14 @@ abled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"
 [INFO  - 2019-11-09T10:27:40.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:32:40.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:37:40.640Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:09:47.841Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 0f6fded0-02d9-11ea-b93d-8552ed23966a
-[ERROR - 2019-11-09T10:09:50.234Z] Session [0f6fded0-02d9-11ea-b93d-8552ed23966a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:09:50.234Z] Session [0f6fded0-02d9-11ea-b93d-8552ed23966a] - page.onError - stack:
-  default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
-  (anonymous function) (https://hh.ru/:54)
-[ERROR - 2019-11-09T10:09:52.194Z] Session [0f6fded0-02d9-11ea-b93d-8552ed23966a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
+[INFO  - 2019-11-09T10:42:40.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:47:40.645Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:52:40.642Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:57:40.644Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:02:40.645Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:07:40.646Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:12:40.646Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
 [ERROR - 2019-11-09T10:09:52.194Z] Session [0f6fded0-02d9-11ea-b93d-8552ed23966a] - page.onError - stack:
   computeTimeToFirstByte (https://static.criteo.net/js/ld/publishertag.js:1)
   finish (https://static.criteo.net/js/ld/publishertag.js:1)
@@ -4190,11 +4191,13 @@ e,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnable
 [INFO  - 2019-11-09T10:29:47.466Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:34:47.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:39:47.471Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-se,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:10:51.151Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 352c0ea0-02d9-11ea-9611-01d2eb103164
-[ERROR - 2019-11-09T10:10:53.351Z] Session [352c0ea0-02d9-11ea-9611-01d2eb103164] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:10:53.351Z] Session [352c0ea0-02d9-11ea-9611-01d2eb103164] - page.onError - stack:
-  default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
+[INFO  - 2019-11-09T10:44:47.472Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:49:47.477Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:54:47.479Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:59:47.481Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:04:47.485Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:09:47.495Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:10:55.221Z] Session [352c0ea0-02d9-11ea-9611-01d2eb103164] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
 [ERROR - 2019-11-09T10:10:55.222Z] Session [352c0ea0-02d9-11ea-9611-01d2eb103164] - page.onError - stack:
@@ -4207,11 +4210,14 @@ se,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabl
 [INFO  - 2019-11-09T10:25:50.608Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:30:50.619Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:35:50.620Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:11:59.105Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5dad03c0-02d9-11ea-bb5b-41af0949bfc9
-[ERROR - 2019-11-09T10:12:01.613Z] Session [5dad03c0-02d9-11ea-bb5b-41af0949bfc9] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:12:01.614Z] Session [5dad03c0-02d9-11ea-bb5b-41af0949bfc9] - page.onError - stack:
-  default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
+[INFO  - 2019-11-09T10:40:50.630Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:45:50.631Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:50:50.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:55:50.636Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:00:50.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:05:50.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:10:50.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:12:03.199Z] Session [5dad03c0-02d9-11ea-bb5b-41af0949bfc9] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
 [ERROR - 2019-11-09T10:12:03.199Z] Session [5dad03c0-02d9-11ea-bb5b-41af0949bfc9] - page.onError - stack:
@@ -4234,11 +4240,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:26:58.760Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:31:58.761Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:36:58.763Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:12:29.485Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 6fc8c990-02d9-11ea-95d5-c7c384c15aa2
-[ERROR - 2019-11-09T10:12:31.715Z] Session [6fc8c990-02d9-11ea-95d5-c7c384c15aa2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:12:31.715Z] Session [6fc8c990-02d9-11ea-95d5-c7c384c15aa2] - page.onError - stack:
-  default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
+[INFO  - 2019-11-09T10:41:58.762Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:46:58.762Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:51:58.763Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:56:58.775Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:01:58.774Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:06:58.776Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:11:58.776Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:12:33.326Z] Session [6fc8c990-02d9-11ea-95d5-c7c384c15aa2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
 [ERROR - 2019-11-09T10:12:33.326Z] Session [6fc8c990-02d9-11ea-95d5-c7c384c15aa2] - page.onError - stack:
@@ -4398,11 +4407,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:27:29.103Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:32:29.104Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:37:29.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:13:21.213Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8e9dda90-02d9-11ea-a920-1d44e1a2c01b
-[ERROR - 2019-11-09T10:13:23.771Z] Session [8e9dda90-02d9-11ea-a920-1d44e1a2c01b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:13:23.771Z] Session [8e9dda90-02d9-11ea-a920-1d44e1a2c01b] - page.onError - stack:
-  default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
+[INFO  - 2019-11-09T10:42:29.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:47:29.107Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:52:29.106Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:57:29.108Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:02:29.109Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:07:29.112Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:12:29.110Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:13:25.335Z] Session [8e9dda90-02d9-11ea-a920-1d44e1a2c01b] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
 [ERROR - 2019-11-09T10:13:25.335Z] Session [8e9dda90-02d9-11ea-a920-1d44e1a2c01b] - page.onError - stack:
@@ -4415,10 +4427,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:28:20.862Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:33:20.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:38:20.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:13:36.723Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 97dc56e0-02d9-11ea-8c36-590f34edc6ac
-[ERROR - 2019-11-09T10:13:39.274Z] Session [97dc56e0-02d9-11ea-8c36-590f34edc6ac] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:13:39.274Z] Session [97dc56e0-02d9-11ea-8c36-590f34edc6ac] - page.onError - stack:
+[INFO  - 2019-11-09T10:43:20.869Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:48:20.870Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:53:20.874Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:58:20.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:03:20.889Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:08:20.885Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+] Session [97dc56e0-02d9-11ea-8c36-590f34edc6ac] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:13:40.830Z] Session [97dc56e0-02d9-11ea-8c36-590f34edc6ac] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
@@ -4438,10 +4453,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:28:36.372Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:33:36.383Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:38:36.385Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:14:22.010Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b2dabd60-02d9-11ea-be6d-6d5405142559
-[ERROR - 2019-11-09T10:14:24.313Z] Session [b2dabd60-02d9-11ea-be6d-6d5405142559] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:14:24.313Z] Session [b2dabd60-02d9-11ea-be6d-6d5405142559] - page.onError - stack:
+[INFO  - 2019-11-09T10:43:36.386Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:48:36.386Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:53:36.399Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:58:36.399Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:03:36.402Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:08:36.401Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+] Session [b2dabd60-02d9-11ea-be6d-6d5405142559] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:14:25.932Z] Session [b2dabd60-02d9-11ea-be6d-6d5405142559] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
@@ -4455,8 +4473,11 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:29:21.674Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:34:21.681Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:39:21.681Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:14:50.974Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: c41e2490-02d9-11ea-89be-efa21b09efc1
+[INFO  - 2019-11-09T10:44:21.681Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:49:21.682Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:54:21.682Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:59:21.683Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+on Created: c41e2490-02d9-11ea-89be-efa21b09efc1
 [ERROR - 2019-11-09T10:14:53.746Z] Session [c41e2490-02d9-11ea-89be-efa21b09efc1] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:14:53.746Z] Session [c41e2490-02d9-11ea-89be-efa21b09efc1] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
@@ -4648,10 +4669,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:29:50.292Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:34:50.295Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:39:50.297Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:19:00.879Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 5912c5b0-02da-11ea-84a7-8100396b9644
-[ERROR - 2019-11-09T10:19:03.198Z] Session [5912c5b0-02da-11ea-84a7-8100396b9644] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
-[ERROR - 2019-11-09T10:19:03.198Z] Session [5912c5b0-02da-11ea-84a7-8100396b9644] - page.onError - stack:
+[INFO  - 2019-11-09T10:44:50.300Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:49:50.304Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:54:50.313Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:59:50.304Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:04:50.322Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:09:50.304Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+] Session [5912c5b0-02da-11ea-84a7-8100396b9644] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
 [ERROR - 2019-11-09T10:19:04.906Z] Session [5912c5b0-02da-11ea-84a7-8100396b9644] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'window.performance.getEntriesByType("resource")')
@@ -4664,9 +4688,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:29:00.564Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:34:00.576Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:39:00.575Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
- Session [67169240-02da-11ea-861b-45d7d9311de2] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:19:24.392Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 67169240-02da-11ea-861b-45d7d9311de2
-[ERROR - 2019-11-09T10:19:27.141Z] Session [67169240-02da-11ea-861b-45d7d9311de2] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:44:00.576Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:49:00.577Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:54:00.588Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:59:00.588Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:04:00.589Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:09:00.589Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:19:27.141Z] Session [67169240-02da-11ea-861b-45d7d9311de2] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4860,9 +4888,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:29:24.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:34:24.069Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:39:24.067Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
- Session [8cf983f0-02da-11ea-9a7b-5f87168800f1] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:20:27.955Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 8cf983f0-02da-11ea-9a7b-5f87168800f1
-[ERROR - 2019-11-09T10:20:30.469Z] Session [8cf983f0-02da-11ea-9a7b-5f87168800f1] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:44:24.068Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:49:24.069Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:54:24.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:59:24.071Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:04:24.073Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:09:24.074Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:20:30.469Z] Session [8cf983f0-02da-11ea-9a7b-5f87168800f1] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4875,10 +4907,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:25:27.688Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:30:27.689Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:35:27.697Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
- - 2019-11-09T10:21:06.360Z] Session [a3dda740-02da-11ea-bd44-21b91787573e] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:21:06.360Z] Session [a3dda740-02da-11ea-bd44-21b91787573e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:21:06.360Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a3dda740-02da-11ea-bd44-21b91787573e
-[ERROR - 2019-11-09T10:21:09.283Z] Session [a3dda740-02da-11ea-bd44-21b91787573e] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:40:27.699Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:45:27.700Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:50:27.700Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:55:27.702Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:00:27.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:05:27.703Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:10:27.704Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:21:09.283Z] Session [a3dda740-02da-11ea-bd44-21b91787573e] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4891,10 +4927,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:26:05.639Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:31:05.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:36:05.653Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
- - 2019-11-09T10:22:14.305Z] Session [cc5d15c0-02da-11ea-8941-c1807630242a] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:22:14.305Z] Session [cc5d15c0-02da-11ea-8941-c1807630242a] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:22:14.305Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: cc5d15c0-02da-11ea-8941-c1807630242a
-[ERROR - 2019-11-09T10:22:16.978Z] Session [cc5d15c0-02da-11ea-8941-c1807630242a] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:41:05.653Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:46:05.655Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:51:05.668Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:56:05.691Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:01:05.668Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:06:05.669Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:11:05.668Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:22:16.979Z] Session [cc5d15c0-02da-11ea-8941-c1807630242a] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4913,10 +4953,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:27:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:32:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:37:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
- - 2019-11-09T10:22:47.165Z] Session [dff34690-02da-11ea-9544-21c99feba90d] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:22:47.165Z] Session [dff34690-02da-11ea-9544-21c99feba90d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:22:47.165Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: dff34690-02da-11ea-9544-21c99feba90d
-[ERROR - 2019-11-09T10:22:49.756Z] Session [dff34690-02da-11ea-9544-21c99feba90d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:42:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:47:13.527Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:52:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:57:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:02:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:07:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:12:13.528Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:22:49.757Z] Session [dff34690-02da-11ea-9544-21c99feba90d] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4929,10 +4973,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:27:46.859Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:32:46.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:37:46.861Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
- - 2019-11-09T10:23:00.594Z] Session [e7f439d0-02da-11ea-80ff-857e81eea797] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:23:00.594Z] Session [e7f439d0-02da-11ea-80ff-857e81eea797] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:23:00.594Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: e7f439d0-02da-11ea-80ff-857e81eea797
-[ERROR - 2019-11-09T10:23:03.012Z] Session [e7f439d0-02da-11ea-80ff-857e81eea797] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:42:46.860Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:47:46.868Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:52:46.868Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:57:46.868Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:02:46.868Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:07:46.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:12:46.871Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:23:03.012Z] Session [e7f439d0-02da-11ea-80ff-857e81eea797] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4945,10 +4993,14 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:28:00.352Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:33:00.352Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:38:00.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-- 2019-11-09T10:23:38.934Z] Session [fece7210-02da-11ea-89fc-3de5e69c602d] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:23:38.935Z] Session [fece7210-02da-11ea-89fc-3de5e69c602d] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:23:38.935Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: fece7210-02da-11ea-89fc-3de5e69c602d
-[ERROR - 2019-11-09T10:23:42.221Z] Session [fece7210-02da-11ea-89fc-3de5e69c602d] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
+[INFO  - 2019-11-09T10:43:00.353Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:48:00.354Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:53:00.355Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:58:00.357Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:03:00.370Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:08:00.371Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:13:00.378Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+nError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:23:42.221Z] Session [fece7210-02da-11ea-89fc-3de5e69c602d] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
   (anonymous function) (https://hh.ru/:54)
@@ -4971,9 +5023,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:28:38.209Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:33:38.214Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:38:38.217Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-- 2019-11-09T10:24:43.205Z] Session [251d44f0-02db-11ea-9953-c9a5446072b6] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:24:43.205Z] Session [251d44f0-02db-11ea-9953-c9a5446072b6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:24:43.206Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 251d44f0-02db-11ea-9953-c9a5446072b6
+[INFO  - 2019-11-09T10:43:38.218Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:48:38.217Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:53:38.227Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:58:38.230Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:03:38.230Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:08:38.232Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+n Created: 251d44f0-02db-11ea-9953-c9a5446072b6
 [ERROR - 2019-11-09T10:24:45.694Z] Session [251d44f0-02db-11ea-9953-c9a5446072b6] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:24:45.694Z] Session [251d44f0-02db-11ea-9953-c9a5446072b6] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
@@ -4987,9 +5043,13 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
 [INFO  - 2019-11-09T10:29:42.918Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:34:42.917Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:39:42.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
-- 2019-11-09T10:25:24.870Z] Session [3df2ff10-02db-11ea-8376-a9aa964d82ed] - page.customHeaders:  - {}
-[INFO  - 2019-11-09T10:25:24.870Z] Session [3df2ff10-02db-11ea-8376-a9aa964d82ed] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"},"phantomjs.page.settings.userAgent":"Safari/537.36"}
-[INFO  - 2019-11-09T10:25:24.870Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 3df2ff10-02db-11ea-8376-a9aa964d82ed
+[INFO  - 2019-11-09T10:44:42.951Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:49:42.920Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:54:42.921Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:59:42.931Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:04:42.933Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:09:42.937Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+n Created: 3df2ff10-02db-11ea-8376-a9aa964d82ed
 [ERROR - 2019-11-09T10:25:27.324Z] Session [3df2ff10-02db-11ea-8376-a9aa964d82ed] - page.onError - msg: TypeError: undefined is not a constructor (evaluating 'e.getEntriesByType("navigation")')
 [ERROR - 2019-11-09T10:25:27.325Z] Session [3df2ff10-02db-11ea-8376-a9aa964d82ed] - page.onError - stack:
   default (https://i.hh.ru/webpackBuild/appEntryPoint.ed55304a869dcffd0433.js:1)
@@ -5182,3 +5242,10 @@ e":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascri
   onload (https://static.criteo.net/js/ld/publishertag.js:1)
 [INFO  - 2019-11-09T10:30:24.648Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
 [INFO  - 2019-11-09T10:35:24.648Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:40:24.650Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:45:24.651Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:50:24.652Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T10:55:24.654Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:00:24.653Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:05:24.654Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2019-11-09T11:10:24.654Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

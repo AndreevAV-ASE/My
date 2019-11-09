@@ -83,7 +83,7 @@ public class selenium {
 	        	elements = driver.findElements(By.xpath("*//div[@class='vacancy-serp']/div/div/div/div[@class='vacancy-serp-item__compensation']"));
 	        	System.out.println("page: " + page);
 	        	page++;
-	        }while (/*driver.findElement(By.className("HH-Pager-Controls-Next")).isDisplayed()*/page<4);
+	        }while (page<4);
 	        zp.forEach(x -> System.out.println(x));
 	        List<Integer> zp_list = new ArrayList<Integer>();
 	        zp.forEach(x -> {
@@ -100,6 +100,9 @@ public class selenium {
 	        	int middle = zp_list.size()/2;
 	        	int median = zp_list.get(middle-1)+zp_list.get(middle);
 	        	System.out.println(median/2);
+	        }else {
+	        	int median = zp_list.size()/2;
+	        	System.out.println(zp_list.get(median));
 	        }
 
 		}
