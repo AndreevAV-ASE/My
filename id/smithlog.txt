@@ -1,0 +1,9 @@
+Sat Nov 30 13:53:13 MSK 2019 - Data:smith:7 + 6
+Sat Nov 30 13:53:13 MSK 2019 - Result:Result 13
+
+Sat Nov 30 13:53:30 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 14:18:37 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:27:45 MSK 2019 - Data:smith:5 + 6
+Sat Nov 30 14:27:45 MSK 2019 - Result:Result 11
+
+Sat Nov 30 14:27:49 MSK 2019 - Fail to connect:Socket is closed

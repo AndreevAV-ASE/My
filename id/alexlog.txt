@@ -1,0 +1,45 @@
+Sat Nov 30 12:46:35 MSK 2019 - Fail to connect:For input string: "alex:6"
+Sat Nov 30 12:47:30 MSK 2019 - Fail to connect:For input string: "alex:5"
+Sat Nov 30 12:51:32 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 12:54:05 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 12:56:04 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 12:58:10 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 13:03:36 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 13:04:34 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 13:07:40 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 13:23:39 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 13:29:34 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 13:30:27 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 13:31:40 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 13:34:24 MSK 2019 - Data:alex:7 + 7
+Sat Nov 30 13:34:24 MSK 2019 - Result:Result 14
+
+Sat Nov 30 13:34:33 MSK 2019 - Fail to connect:Index 2 out of bounds for length 1
+Sat Nov 30 13:48:23 MSK 2019 - Data:alex:7 + 7
+Sat Nov 30 13:48:23 MSK 2019 - Result:Result 14
+
+Sat Nov 30 13:48:59 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 13:51:27 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 13:52:38 MSK 2019 - Data:alex:5 + 6
+Sat Nov 30 13:52:38 MSK 2019 - Result:Result 11
+
+Sat Nov 30 13:52:52 MSK 2019 - Data:alex:56 + 9
+Sat Nov 30 13:52:52 MSK 2019 - Result:Result 65
+
+Sat Nov 30 13:55:23 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 13:59:43 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 14:06:32 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 14:06:57 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 14:08:36 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 14:09:27 MSK 2019 - Fail to connect:Connection reset
+Sat Nov 30 14:09:57 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:10:46 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:11:15 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:11:40 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:12:39 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:13:35 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:14:51 MSK 2019 - Fail to connect:Socket is closed
+Sat Nov 30 14:27:17 MSK 2019 - Data:alex:4 + 6
+Sat Nov 30 14:27:17 MSK 2019 - Result:Result 10
+
+Sat Nov 30 14:27:30 MSK 2019 - Fail to connect:Socket is closed
